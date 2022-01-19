@@ -1,19 +1,19 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Verto",
+    subtitle: "React Native",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Helped devlop the app for startup company Verto. Built in React ",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/elton-cheung/verto_app",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Moodie Foodie",
+    subtitle: "HTML and Javascript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Developed app with classmates for class project. Uses multiple api calls and OAuth to find the best recipie for you.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/tsmchoe/CS_411_Project/tree/master",
   },
   {
     title: "DevChat",
@@ -30,23 +30,6 @@ export const projects = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-4.gif",
     link: "https://reactbootcamp.com",
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
   },
 ];
 
