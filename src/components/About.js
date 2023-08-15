@@ -12,9 +12,7 @@ export default function About() {
             <br className="hidden lg:inline-block" />CS Major, BU 2020 Grad.
           </h1>
           <p className="mb-8 leading-relaxed">
-          Graduate in Computer Science from Boston University with expertise in Python and Java.
-          Currently working in goverment contracting. 
-          Unique volunteering background in providing humanitarian aid for underdeveloped third world countries.
+          Enthusiastic and highly motivated Computer Scientist with a passion for software development, seeking to leverage expertise in Object-Oriented Programming, Front End Development, Cloud Technologies, and Relational Database Development to contribute to a dynamic team's success.
           </p>
           <div className="flex justify-center">
             <a
