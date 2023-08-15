@@ -5,7 +5,7 @@ import React from "react";
 export default function Contact() {
   return (
     <section id="contact" className="relative">
-      <div style="width:800px; margin:0 auto;">
+      <div className="relative mb-4">
         <form
           netlify
           name="contact"
