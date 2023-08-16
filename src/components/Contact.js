@@ -5,7 +5,7 @@ import React from "react";
 export default function Contact() {
   return (
     <section id="contact" className="relative">
-      <div className="text-center relative mb-4">
+      <div className="relative mb-2">
         <form
           netlify
           name="contact"
@@ -13,10 +13,10 @@ export default function Contact() {
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
             Hire Me
           </h2>
-          <p className="leading-relaxed mb-5">
+          <p className="leading-relaxed mb-2">
             Looking for a skilled and motivated Software Developer to enhance your team? Look no further. With a strong background in Java, Python, and JavaScript, I am ready to bring innovation and efficiency to your projects. Let's collaborate and achieve greatness together. Hire me today for a brighter tomorrow.
           </p>
-          <div className="relative mb-4">
+          <div className="relative mb-2">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
               Name
             </label>
@@ -27,7 +27,7 @@ export default function Contact() {
               className="w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
             />
           </div>
-          <div className="relative mb-4">
+          <div className="relative mb-2">
             <label htmlFor="email" className="leading-7 text-sm text-gray-400">
               Email
             </label>
@@ -38,7 +38,7 @@ export default function Contact() {
               className="w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
             />
           </div>
-          <div className="relative mb-4">
+          <div className="relative mb-2">
             <label
               htmlFor="message"
               className="leading-7 text-sm text-gray-400">
