@@ -32,6 +32,7 @@ export default function Contact() {
               <p className="leading-relaxed">123-456-7890</p>
             </div>
           </div>
+         </div>
         </div>
         <form
           netlify
